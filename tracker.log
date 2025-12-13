@@ -80,3 +80,58 @@ Mon Dec  1 02:00:03 +08 2025: Scraping Bitcoin price from CoinMarketCap...
 Mon Dec  1 02:00:03 +08 2025: Bitcoin price: $91498.27
 Mon Dec  1 02:00:03 +08 2025: SUCCESS: Inserted $91498.27 into MySQL
 Mon Dec  1 02:00:03 +08 2025: === Completed ===
+Sat Dec  6 08:00:06 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 08:00:06 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 08:00:06 +08 2025: Bitcoin price: $89384.48
+Sat Dec  6 08:00:07 +08 2025: SUCCESS: Inserted $89384.48 into MySQL
+Sat Dec  6 08:00:07 +08 2025: === Completed ===
+Sat Dec  6 10:00:09 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 10:00:09 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 10:00:09 +08 2025: Bitcoin price: $89342.25
+Sat Dec  6 10:00:09 +08 2025: SUCCESS: Inserted $89342.25 into MySQL
+Sat Dec  6 10:00:09 +08 2025: === Completed ===
+Sat Dec  6 12:00:09 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 12:00:09 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 12:00:09 +08 2025: Bitcoin price: $89735.70
+Sat Dec  6 12:00:09 +08 2025: SUCCESS: Inserted $89735.70 into MySQL
+Sat Dec  6 12:00:09 +08 2025: === Completed ===
+Sat Dec  6 14:00:08 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 14:00:08 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 14:00:08 +08 2025: Bitcoin price: $89634.77
+Sat Dec  6 14:00:08 +08 2025: SUCCESS: Inserted $89634.77 into MySQL
+Sat Dec  6 14:00:09 +08 2025: === Completed ===
+Sat Dec  6 16:00:07 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 16:00:07 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 16:00:07 +08 2025: Bitcoin price: $89646.02
+Sat Dec  6 16:00:07 +08 2025: SUCCESS: Inserted $89646.02 into MySQL
+Sat Dec  6 16:00:07 +08 2025: === Completed ===
+Sat Dec  6 18:00:08 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 18:00:08 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 18:00:09 +08 2025: Bitcoin price: $89654.95
+Sat Dec  6 18:00:09 +08 2025: SUCCESS: Inserted $89654.95 into MySQL
+Sat Dec  6 18:00:09 +08 2025: === Completed ===
+Sat Dec  6 20:00:04 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 20:00:04 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 20:00:07 +08 2025: Bitcoin price: $89675.31
+Sat Dec  6 20:00:07 +08 2025: SUCCESS: Inserted $89675.31 into MySQL
+Sat Dec  6 20:00:07 +08 2025: === Completed ===
+Sat Dec  6 22:00:02 +08 2025: === Starting Bitcoin Tracker ===
+Sat Dec  6 22:00:02 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sat Dec  6 22:00:02 +08 2025: Bitcoin price: $89703.52
+Sat Dec  6 22:00:02 +08 2025: SUCCESS: Inserted $89703.52 into MySQL
+Sat Dec  6 22:00:02 +08 2025: === Completed ===
+Sun Dec  7 00:00:04 +08 2025: === Starting Bitcoin Tracker ===
+Sun Dec  7 00:00:04 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sun Dec  7 00:00:05 +08 2025: Bitcoin price: $89873.95
+Sun Dec  7 00:00:05 +08 2025: SUCCESS: Inserted $89873.95 into MySQL
+Sun Dec  7 00:00:05 +08 2025: === Completed ===
+Sun Dec  7 02:00:07 +08 2025: === Starting Bitcoin Tracker ===
+Sun Dec  7 02:00:07 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Sun Dec  7 02:00:08 +08 2025: Bitcoin price: $89704.44
+Sun Dec  7 02:00:08 +08 2025: SUCCESS: Inserted $89704.44 into MySQL
+Sun Dec  7 02:00:08 +08 2025: === Completed ===
+Tue Dec  9 12:00:03 +08 2025: === Starting Bitcoin Tracker ===
+Tue Dec  9 12:00:03 +08 2025: Scraping Bitcoin price from CoinMarketCap...
+Tue Dec  9 12:00:03 +08 2025: Bitcoin price: $90357.02
+Tue Dec  9 12:00:06 +08 2025: ERROR: MySQL insertion failed
+Tue Dec  9 12:00:06 +08 2025: === Completed ===

@@ -1,0 +1,20 @@
+=== COMP1314 Plotting Summary ===
+Generated: Sat Dec 13 21:25:19 +08 2025
+Total plots: 10
+Database: crypto_tracker
+MySQL Host: localhost
+
+Generated plots:
+1. bitcoin_price.png - Bitcoin price over time
+2. bitcoin_trend.png - Daily price range and average
+3. hourly_pattern.png - Average price by hour
+4. price_distribution.png - Price distribution histogram
+5. price_change.png - Daily percentage change
+6. cumulative_returns.png - Cumulative returns
+7. moving_average.png - Price with moving average
+8. data_frequency.png - Data collection frequency
+9. volatility.png - Daily price volatility
+10. prediction.png - Price trend with forecast
+
+Data Source: XAMPP MySQL via phpMyAdmin
+All plots saved in: /home/aris_aihano/bitcoin_tracker/plots/
