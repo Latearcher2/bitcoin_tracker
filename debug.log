@@ -1,0 +1,50 @@
+=== DEBUG START: Sat Dec 13 22:28:19 +08 2025 ===
+Sat Dec 13 22:28:19 +08 2025: Test 1: Testing MySQL connection...
+Database
+crypto_tracker
+information_schema
+mysql
+performance_schema
+phpmyadmin
+test
+Sat Dec 13 22:28:19 +08 2025: ✓ MySQL connection successful
+Sat Dec 13 22:28:19 +08 2025: 
+Sat Dec 13 22:28:19 +08 2025: Test 2: Checking if database 'crypto_tracker' exists...
+Tables_in_crypto_tracker
+bitcoin_prices
+Sat Dec 13 22:28:19 +08 2025: ✓ Database 'crypto_tracker' exists
+Sat Dec 13 22:28:19 +08 2025: 
+Sat Dec 13 22:28:19 +08 2025: Test 3: Checking if table 'bitcoin_prices' exists...
+Tables_in_crypto_tracker (bitcoin_prices)
+bitcoin_prices
+Sat Dec 13 22:28:20 +08 2025: 
+Sat Dec 13 22:28:20 +08 2025: Test 4: Checking table structure...
+Field	Type	Null	Key	Default	Extra
+id	int(11)	NO	PRI	NULL	auto_increment
+price_usd	decimal(10,2)	YES		NULL	
+last_updated	datetime	YES		current_timestamp()	
+Sat Dec 13 22:28:20 +08 2025: 
+Sat Dec 13 22:28:20 +08 2025: Test 5: Counting existing records...
+total_rows
+29
+Sat Dec 13 22:28:20 +08 2025: 
+Sat Dec 13 22:28:20 +08 2025: Test 6: Inserting test data...
+Sat Dec 13 22:28:20 +08 2025: ✓ Test data inserted successfully
+Sat Dec 13 22:28:20 +08 2025: 
+Sat Dec 13 22:28:20 +08 2025: Test 7: Showing recent data...
+id	price_usd	last_updated
+31	45000.50	2025-12-13 22:28:19
+30	90280.00	2025-12-13 22:17:22
+29	45000.50	2025-12-13 22:17:21
+28	90278.83	2025-12-13 22:11:19
+27	90276.16	2025-12-13 22:00:06
+Sat Dec 13 22:28:20 +08 2025: 
+Sat Dec 13 22:28:20 +08 2025: Test 8: Testing Bitcoin price scraping...
+Sat Dec 13 22:28:20 +08 2025: ✓ Scraped price: $90102
+Sat Dec 13 22:28:20 +08 2025: 
+Sat Dec 13 22:28:20 +08 2025: Test 9: Inserting scraped price...
+Sat Dec 13 22:28:21 +08 2025: ✓ Scraped price inserted successfully
+Sat Dec 13 22:28:21 +08 2025: 
+Sat Dec 13 22:28:21 +08 2025: Test 10: Final data count...
+final_count
+31
